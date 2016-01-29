@@ -1,0 +1,28 @@
+name: brandi leigh photography
+favicon: null
+layout_spectrum: 0.07076216349378228
+typography_spectrum: 0.14890194684267044
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7828865572810173
+  lightness: 0.6569191887974739
+  saturation: 0.8639529179781675
+  rhythmicContrast: 0.1896960185840726
+purpose: []
